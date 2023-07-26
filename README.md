@@ -71,9 +71,10 @@ The function should return a combined DataFrame with a new 'difference' column, 
 - Clone it to your machine
 
 
+
 ## Getting Started
 
-Complete the challenge in this readme in a `.ipynb` or `.py`file.
+Complete the challenges. Follow the instructions and add your code and explanations as necessary.
 
 ## Submission
 
@@ -85,7 +86,7 @@ git commit -m "Solved lab"
 git push origin master
 ```
 
-- Create a Pull Request so that your TAs can check your work.
+- Paste the link of your lab in Student Portal.
 
 
 
